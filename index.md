@@ -2,7 +2,7 @@
 
 ## Curriculum vitae
 
-Open [my cv](HL_CV2023Mar.pdf) (171KB PDF).
+Open [my cv](HL_CV2023Mar-web.pdf) (171KB PDF).
 
 ## Writing portfolio
 
